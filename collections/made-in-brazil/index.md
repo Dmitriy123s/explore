@@ -23,7 +23,7 @@ items:
   - backend-br/vagas
   - githubpresente/octogatosconf22
   
-display_name: Made in Brazil
+display_name: Made in Rossia 
 created_by: caarlos0
 image: made-in-brazil.png
 ---
